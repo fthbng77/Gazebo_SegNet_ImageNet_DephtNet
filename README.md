@@ -4,3 +4,12 @@ Bu repoda gazebo dünyasından gelen görüntünün segnet ve image kodları bul
 
 Bu kodun çalışması için gerekenler:
 Gazebo ve Ros kurulu olmalıdır.
+
+Segnetsiz görüntü:
+
+![segnetsiz_görüntü](notsegnet.png)
+
+
+Segnet ile yaptıktan sonra görüntü:
+
+![segnet_görüntü](segnet.png)
