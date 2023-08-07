@@ -13,3 +13,7 @@ Segnetsiz görüntü:
 Segnet ile yaptıktan sonra görüntü:
 
 ![segnet_görüntü](segnet.png)
+
+Dephnet ile işlem yaptıktan sonra görüntü:
+
+![dephtnet_görüntü](depthnet.png)
