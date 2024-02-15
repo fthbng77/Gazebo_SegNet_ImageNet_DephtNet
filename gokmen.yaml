@@ -1,0 +1,6 @@
+path: /content/datasets/fixed-wing-update  # Base directory for the dataset
+train: images/train_rz                     # Path to training images relative to `path`
+val: images/val_rz                         # Path to validation images relative to `path`, adjust if your validation path is different
+
+nc: 1                                      # Number of classes
+names: ['fixed wing']                      # Name of the classes
